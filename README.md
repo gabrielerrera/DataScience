@@ -1,1 +1,1 @@
-Data Science com Python
+Estudo e anotações de Data Science com Python
